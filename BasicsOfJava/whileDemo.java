@@ -1,4 +1,4 @@
-package BasicsOfJava;
+
 
 import java.util.*;
 class whileDemo {
