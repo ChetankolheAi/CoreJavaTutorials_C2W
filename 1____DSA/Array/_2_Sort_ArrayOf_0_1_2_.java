@@ -4,12 +4,12 @@ class _2_Sort_ArrayOf_0_1_2_{
 		int CountOne =0 ;
 		int CountZero = 0;
 		int CountTwo = 0;
-                for(int i =0 ;i<arr.length;i++){
+        	for(int i =0 ;i<arr.length;i++){
 
-                        if(arr[i] == 0){
+			if(arr[i] == 0){
 
-                                CountZero += 1;
-                        }
+					CountZero += 1;
+			}
 			else if(arr[i]==1){
 
 				CountOne += 1;
@@ -18,7 +18,7 @@ class _2_Sort_ArrayOf_0_1_2_{
 
 				CountTwo += 1;
 			}
-                }
+        }
 
 		for(int i=0 ;i<arr.length;i++){
 
