@@ -1,4 +1,4 @@
-import java.lang.reflect.Array;
+
 
 public class Merge_two_sortedArray {
     static int[]  mergeSorted(int arr[] , int arr1[]){
