@@ -15,7 +15,7 @@ public class _16_Move_Zero_To_End{
         }
     }
     public static void main(String[] args) {
-        int arr[] ={0,0,4,5,7,0};
+        int arr[] ={0,0,4,5,7,0,9};
         Solve(arr);
     }
 }
